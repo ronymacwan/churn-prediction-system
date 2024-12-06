@@ -1,0 +1,39 @@
+// Fact Table: CustomerFacts
+Table CustomerFacts {
+  customerID TEXT [pk]
+  tenure INTEGER
+  MonthlyCharges REAL
+  TotalCharges REAL
+  Churn INTEGER
+}
+
+// Dimension Table: CustomerDimension
+Table CustomerDimension {
+  customerID TEXT [pk, ref: > CustomerFacts.customerID]
+  gender TEXT
+  SeniorCitizen INTEGER
+  Partner INTEGER
+  Dependents INTEGER
+}
+
+// Dimension Table: ServiceDimension
+Table ServiceDimension {
+  customerID TEXT [pk, ref: > CustomerFacts.customerID]
+  PhoneService INTEGER
+  MultipleLines TEXT
+  InternetService TEXT
+  OnlineSecurity TEXT
+  OnlineBackup TEXT
+  DeviceProtection TEXT
+  TechSupport TEXT
+  StreamingTV TEXT
+  StreamingMovies TEXT
+}
+
+// Dimension Table: ContractDimension
+Table ContractDimension {
+  customerID TEXT [pk, ref: > CustomerFacts.customerID]
+  Contract TEXT
+  PaperlessBilling INTEGER
+  PaymentMethod TEXT
+}

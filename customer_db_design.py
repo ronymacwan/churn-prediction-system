@@ -1,7 +1,7 @@
 import sqlite3
 
 # establish a connection to SQLite database
-conn = sqlite3.connect("telecom_churn.db")
+conn = sqlite3.connect("customer.db")
 cursor = conn.cursor()
 
 # Fact Table: CustomerFacts
@@ -59,4 +59,4 @@ CREATE TABLE IF NOT EXISTS ContractDimension (
 conn.commit()
 conn.close()
 
-print("Star schema created successfully.")
+print("Customer database schema created successfully.")

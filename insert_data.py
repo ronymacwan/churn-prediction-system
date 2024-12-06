@@ -4,7 +4,7 @@ import pandas as pd
 df = pd.read_csv("WA_Fn-UseC_-Telco-Customer-Churn.csv")
 
 # connection to SQLite database
-conn = sqlite3.connect("telecom_churn.db")
+conn = sqlite3.connect("customer.db")
 cursor = conn.cursor()
 
 # function to convert 'Yes'/'No' to 1/0
