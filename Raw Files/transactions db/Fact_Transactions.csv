@@ -1,0 +1,319 @@
+transactionID,customerId,serviceType,serviceSubType,invoiceID,Date,PaymentMethod,Quantity,PerUnitPrice,ProductID,PriceSegment,Brand,FinalPrice
+1,7590-VHVEG,Mobile Services,Roaming data booster,MS0001,01/01/2024,AMEX,1,15.99,MOBILE-001,Low-Value,Verizon,15.99
+2,7590-VHVEG,Mobile Services,International calling,MS0001,01/01/2024,AMEX,1,9.99,MOBILE-002,Low-Value,Verizon,9.99
+3,5575-GNVDE,Mobile Services,Roaming data booster,MS0002,01/01/2024,American Express,1,15.99,MOBILE-001,Low-Value,Verizon,15.99
+4,5575-GNVDE,Mobile Services,International calling,MS0002,01/01/2024,American Express,1,9.99,MOBILE-002,Low-Value,Verizon,9.99
+5,3668-QPYBK,Mobile Services,Roaming data booster,MS0003,01/01/2024,Cash,1,15.99,MOBILE-001,Low-Value,Verizon,15.99
+6,3668-QPYBK,Mobile Services,International calling,MS0003,01/01/2024,Cash,1,9.99,MOBILE-002,Low-Value,Verizon,9.99
+7,7795-CFOCW,Mobile Services,Roaming data booster,MS0004,01/01/2024,Cash,1,15.99,MOBILE-001,Low-Value,Verizon,15.99
+8,7795-CFOCW,Mobile Services,International calling,MS0004,01/01/2024,Cash,1,9.99,MOBILE-002,Low-Value,Verizon,9.99
+9,9237-HQITU,Mobile Services,Roaming data booster,MS0005,01/01/2024,AMEX,1,15.99,MOBILE-001,Low-Value,Verizon,15.99
+10,9237-HQITU,Mobile Services,International calling,MS0005,01/01/2024,AMEX,1,9.99,MOBILE-002,Low-Value,Verizon,9.99
+11,9305-CDSKC,Mobile Services,Roaming data booster,MS0006,01/02/2024,American Express,1,15.99,MOBILE-001,Low-Value,Verizon,15.99
+12,9305-CDSKC,Mobile Services,International calling,MS0006,01/02/2024,American Express,1,9.99,MOBILE-002,Low-Value,Verizon,9.99
+13,1452-KIOVK,Mobile Services,Roaming data booster,MS0007,01/02/2024,Cash,2,15.99,MOBILE-001,Low-Value,Verizon,31.98
+14,1452-KIOVK,Mobile Services,International calling,MS0007,01/02/2024,Cash,3,9.99,MOBILE-002,Low-Value,Verizon,29.97
+15,6713-OKOMC,Mobile Services,Roaming data booster,MS0008,01/02/2024,Cash,2,15.99,MOBILE-001,Low-Value,Verizon,31.98
+16,6713-OKOMC,Mobile Services,International calling,MS0008,01/02/2024,Cash,1,9.99,MOBILE-002,Low-Value,Verizon,9.99
+17,8091-TTVAX,Mobile Services,Roaming data booster,MS0009,01/02/2024,American Express,1,15.99,MOBILE-001,Low-Value,Verizon,15.99
+18,8091-TTVAX,Mobile Services,International calling,MS0009,01/02/2024,American Express,1,9.99,MOBILE-002,Low-Value,Verizon,9.99
+19,9867-JCZSP,Mobile Services,Roaming data booster,MS0010,01/02/2024,American Express,1,15.99,MOBILE-001,Low-Value,Verizon,15.99
+20,9867-JCZSP,Mobile Services,International calling,MS0010,01/02/2024,American Express,1,9.99,MOBILE-002,Low-Value,Verizon,9.99
+21,1658-BYGOY,Mobile Services,100 SMS Pack,MS0011,01/02/2024,American Express,1,5.99,MOBILE-003,Low-Value,Verizon,5.99
+22,8769-KKTPH,Mobile Services,150 SMS Pack,MS0012,01/02/2024,American Express,1,7.99,MOBILE-004,Low-Value,Verizon,7.99
+23,5067-XJQFU,Mobile Services,100 SMS Pack,MS0012,01/02/2024,VISA,2,5.99,MOBILE-003,Low-Value,Verizon,11.98
+24,3957-SQXML,Mobile Services,100 SMS Pack,MS0013,01/02/2024,VISA,2,5.99,MOBILE-003,Low-Value,Verizon,11.98
+25,5954-BDFSG,Mobile Services,100 SMS Pack,MS0013,01/02/2024,VISA,2,5.99,MOBILE-003,Low-Value,Verizon,11.98
+26,0434-CSFON,Mobile Services,150 SMS Pack,MS0014,01/02/2024,VISA,2,7.99,MOBILE-004,Low-Value,Verizon,15.98
+27,1215-FIGMP,Mobile Services,SIM Card Replacement,MS0015,01/02/2024,Cash,2,10.0,MOBILE-005,Low-Value,Verizon,20.0
+28,0526-SXDJP,Mobile Services,150 SMS Pack,MS0016,01/02/2024,Cash,3,7.99,MOBILE-004,Low-Value,Verizon,23.97
+29,0557-ASKVU,Mobile Services,150 SMS Pack,MS0017,01/02/2024,Cash,1,7.99,MOBILE-004,Low-Value,Verizon,7.99
+30,5698-BQJOH,Mobile Services,SIM Card Replacement,MS0018,01/02/2024,Cash,1,10.0,MOBILE-005,Low-Value,Verizon,10.0
+31,5122-CYFXA,Mobile Services,150 SMS Pack,MS0019,01/02/2024,Cash,1,7.99,MOBILE-004,Low-Value,Verizon,7.99
+32,8627-ZYGSZ,Mobile Services,Family Plan,MS0020,01/03/2024,Cash,5,49.99,MOBILE-006,Medium-Value,Verizon,249.95
+33,3410-YOQBQ,Mobile Services,Family Plan,MS0021,01/03/2024,Cash,4,49.99,MOBILE-006,Medium-Value,Verizon,199.96
+34,7233-PAHHL,Mobile Services,Family Plan,MS0022,01/03/2024,Cash,2,49.99,MOBILE-006,Medium-Value,Verizon,99.98
+35,6067-NGCEU,Mobile Services,Family Plan,MS0023,01/03/2024,Cash,3,49.99,MOBILE-006,Medium-Value,Verizon,149.97
+36,9848-JQJTX,Mobile Services,Family Plan,MS0024,01/03/2024,Cash,9,49.99,MOBILE-006,Medium-Value,Verizon,449.91
+37,8637-XJIVR,Mobile Services,Mobile Hotspot Plan,MS0025,01/03/2024,Cash,4,19.99,MOBILE-007,Medium-Value,Verizon,79.96
+38,9803-FTJCG,Mobile Services,Mobile Hotspot Plan,MS0025,01/03/2024,Cash,4,19.99,MOBILE-007,Medium-Value,Verizon,79.96
+39,0278-YXOOG,Mobile Services,Mobile Hotspot Plan,MS0026,01/03/2024,Cash,1,19.99,MOBILE-007,Medium-Value,Verizon,19.99
+40,3212-KXOCR,Mobile Services,Mobile Hotspot Plan,MS0027,01/03/2024,Cash,7,19.99,MOBILE-007,Medium-Value,Verizon,139.93
+41,4846-WHAFZ,Mobile Services,Roaming data booster,MS0028,01/03/2024,AMEX,1,15.99,MOBILE-001,Low-Value,Verizon,15.99
+42,5256-SKJGO,Mobile Services,International calling,MS0029,01/03/2024,American Express,8,9.99,MOBILE-002,Low-Value,Verizon,79.92
+43,3071-VBYPO,Mobile Services,Roaming data booster,MS0030,01/03/2024,Master Card,1,15.99,MOBILE-001,Low-Value,Verizon,15.99
+44,9560-BBZXK,Mobile Services,International calling,MS0031,01/03/2024,Cash,1,9.99,MOBILE-002,Low-Value,Verizon,9.99
+45,5299-RULOA,Mobile Services,SIM Card Replacement,MS0032,01/03/2024,AMEX,1,10.0,MOBILE-005,Low-Value,Verizon,10.0
+46,8402-OOOHJ,Mobile Services,International calling,MS0033,01/03/2024,American Express,1,9.99,MOBILE-002,Low-Value,Verizon,9.99
+47,9445-ZUEQE,Mobile Services,Roaming data booster,MS0034,01/03/2024,Master Card,1,15.99,MOBILE-001,Low-Value,Verizon,15.99
+48,1091-SOZGA,Mobile Services,International calling,MS0035,01/03/2024,Cash,1,9.99,MOBILE-002,Low-Value,Verizon,9.99
+49,2928-HLDBA,Mobile Services,SIM Card Replacement,MS0036,01/03/2024,American Express,1,10.0,MOBILE-005,Low-Value,Verizon,10.0
+50,0404-SWRVG,Mobile Services,International calling,MS0037,01/03/2024,American Express,1,9.99,MOBILE-002,Low-Value,Verizon,9.99
+51,2211-RMNHO,Enterprise Services,Microsoft Azure Virtual Machines,ES0001,01/03/2024,American Express,10,99.0,CLOUD-001,High-Value,Microsoft,990.0
+52,2211-RMNHO,Enterprise Services,Azure Blob Storage,ES0001,01/03/2024,American Express,15,50.0,CLOUD-002,High-Value,Microsoft,750.0
+53,2432-TFSMK,Enterprise Services,Microsoft Azure Virtual Machines,ES0002,01/03/2024,American Express,20,99.0,CLOUD-001,High-Value,Microsoft,1980.0
+54,2432-TFSMK,Enterprise Services,Azure Blob Storage,ES0002,01/03/2024,American Express,5,50.0,CLOUD-002,High-Value,Microsoft,250.0
+55,3440-JPSCL,Enterprise Services,Microsoft Azure Virtual Machines,ES0003,01/03/2024,American Express,5,99.0,CLOUD-001,High-Value,Microsoft,495.0
+56,3440-JPSCL,Enterprise Services,Azure Blob Storage,ES0003,01/03/2024,American Express,5,50.0,CLOUD-002,High-Value,Microsoft,250.0
+57,1834-ABKHQ,Enterprise Services,Microsoft Azure Virtual Machines,ES0004,01/04/2024,AMEX,5,99.0,CLOUD-001,High-Value,Microsoft,495.0
+58,1834-ABKHQ,Enterprise Services,Azure Blob Storage,ES0004,01/04/2024,AMEX,5,50.0,CLOUD-002,High-Value,Microsoft,250.0
+59,3594-KADLU,Enterprise Services,Microsoft Azure Virtual Machines,ES0005,01/04/2024,AMEX,5,99.0,CLOUD-001,High-Value,Microsoft,495.0
+60,3594-KADLU,Enterprise Services,Azure Blob Storage,ES0005,01/04/2024,AMEX,5,50.0,CLOUD-002,High-Value,Microsoft,250.0
+61,1734-ZMNTZ,Enterprise Services,Microsoft Azure Virtual Machines,ES0006,01/04/2024,AMEX,5,99.0,CLOUD-001,High-Value,Microsoft,495.0
+62,1734-ZMNTZ,Enterprise Services,Azure Blob Storage,ES0006,01/04/2024,AMEX,5,50.0,CLOUD-002,High-Value,Microsoft,250.0
+63,2519-TWKFS,Enterprise Services,Microsoft Azure Virtual Machines,ES0007,01/04/2024,AMEX,5,99.0,CLOUD-001,High-Value,Microsoft,495.0
+64,2519-TWKFS,Enterprise Services,Azure Blob Storage,ES0007,01/04/2024,AMEX,5,50.0,CLOUD-002,High-Value,Microsoft,250.0
+65,2889-FPWRM,Enterprise Services,Microsoft Azure Virtual Machines,ES0008,01/04/2024,AMEX,5,99.0,CLOUD-001,High-Value,Microsoft,495.0
+66,2889-FPWRM,Enterprise Services,Azure Blob Storage,ES0008,01/04/2024,AMEX,5,50.0,CLOUD-002,High-Value,Microsoft,250.0
+67,0626-QXNGV,Enterprise Services,Microsoft Azure Virtual Machines,ES0009,01/04/2024,Master Card,10,99.0,CLOUD-001,High-Value,Microsoft,990.0
+68,0626-QXNGV,Enterprise Services,Azure Blob Storage,ES0010,01/04/2024,AMEX,10,50.0,CLOUD-002,High-Value,Microsoft,500.0
+69,6987-XQSJT,Enterprise Services,Microsoft Azure Virtual Machines,ES0010,01/04/2024,AMEX,10,99.0,CLOUD-001,High-Value,Microsoft,990.0
+70,6987-XQSJT,Enterprise Services,Azure Blob Storage,ES0011,01/04/2024,AMEX,10,50.0,CLOUD-002,High-Value,Microsoft,500.0
+71,4732-RRJZC,Enterprise Services,Microsoft Azure Virtual Machines,ES0012,01/04/2024,Master Card,20,99.0,CLOUD-001,High-Value,Microsoft,1980.0
+72,4732-RRJZC,Enterprise Services,Azure Blob Storage,ES0013,01/04/2024,AMEX,20,50.0,CLOUD-002,High-Value,Microsoft,1000.0
+73,9499-XPZXM,Enterprise Services,Microsoft Azure Virtual Machines,ES0014,01/04/2024,VISA,5,99.0,CLOUD-001,High-Value,Microsoft,495.0
+74,9499-XPZXM,Enterprise Services,Azure Blob Storage,ES0015,01/04/2024,Master Card,5,50.0,CLOUD-002,High-Value,Microsoft,250.0
+75,4338-EYCER,Enterprise Services,Microsoft Azure Virtual Machines,ES0016,01/04/2024,AMEX,5,99.0,CLOUD-001,High-Value,Microsoft,495.0
+76,4338-EYCER,Enterprise Services,Azure Blob Storage,ES0017,01/04/2024,VISA,5,50.0,CLOUD-002,High-Value,Microsoft,250.0
+77,3007-FDPEA,Enterprise Services,Microsoft Azure Virtual Machines,ES0018,01/04/2024,Master Card,1,99.0,CLOUD-001,High-Value,Microsoft,99.0
+78,3007-FDPEA,Enterprise Services,Azure Blob Storage,ES0019,01/04/2024,AMEX,1,50.0,CLOUD-002,High-Value,Microsoft,50.0
+79,3007-FDPEA,Enterprise Services,Microsoft Azure Virtual Machines,ES0020,01/04/2024,VISA,1,99.0,CLOUD-001,High-Value,Microsoft,99.0
+80,3007-FDPEA,Enterprise Services,Azure Blob Storage,ES0021,01/04/2024,VISA,1,50.0,CLOUD-002,High-Value,Microsoft,50.0
+81,6350-XFYGW,Enterprise Services,Microsoft Azure Virtual Machines,ES0022,01/04/2024,VISA,1,99.0,CLOUD-001,High-Value,Microsoft,99.0
+82,3621-CHYVB,Enterprise Services,Azure Blob Storage,ES0023,01/04/2024,VISA,1,50.0,CLOUD-002,High-Value,Microsoft,50.0
+83,8042-RNLKO,Enterprise Services,Azure Blob Storage,ES0024,01/04/2024,VISA,1,50.0,CLOUD-002,High-Value,Microsoft,50.0
+84,1792-UXAFY,Enterprise Services,Azure Blob Storage,ES0025,01/04/2024,VISA,5,50.0,CLOUD-002,High-Value,Microsoft,250.0
+85,5372-FBKBN,Enterprise Services,Azure Blob Storage,ES0026,01/04/2024,VISA,5,50.0,CLOUD-002,High-Value,Microsoft,250.0
+86,0420-TXVSG,Enterprise Services,Azure Blob Storage,ES0027,01/04/2024,AMEX,5,50.0,CLOUD-002,High-Value,Microsoft,250.0
+87,6217-TOWGS,Enterprise Services,Azure Blob Storage,ES0028,01/04/2024,American Express,2,50.0,CLOUD-002,High-Value,Microsoft,100.0
+88,0515-YPMCW,Enterprise Services,Azure Blob Storage,ES0029,01/04/2024,Master Card,2,50.0,CLOUD-002,High-Value,Microsoft,100.0
+89,0378-XSZPU,Enterprise Services,Azure Blob Storage,ES0030,01/05/2024,American Express,2,50.0,CLOUD-002,High-Value,Microsoft,100.0
+90,1045-LTCYT,Enterprise Services,Azure Blob Storage,ES0031,01/05/2024,Master Card,2,50.0,CLOUD-002,High-Value,Microsoft,100.0
+91,1544-JJMYL,Enterprise Services,Azure Blob Storage,ES0032,01/05/2024,AMEX,2,50.0,CLOUD-002,High-Value,Microsoft,100.0
+92,4636-JGAAI,Enterprise Services,Azure Blob Storage,ES0033,01/05/2024,American Express,2,50.0,CLOUD-002,High-Value,Microsoft,100.0
+93,6874-SGLHU,Enterprise Services,Azure Blob Storage,ES0034,01/05/2024,Master Card,2,50.0,CLOUD-002,High-Value,Microsoft,100.0
+94,5951-AOFIH,Enterprise Services,Azure Blob Storage,ES0035,01/05/2024,American Express,2,50.0,CLOUD-002,High-Value,Microsoft,100.0
+95,4729-XKASR,Enterprise Services,Azure Blob Storage,ES0036,01/05/2024,Master Card,1,50.0,CLOUD-002,High-Value,Microsoft,50.0
+96,3059-NGMXB,Enterprise Services,Azure Blob Storage,ES0037,01/05/2024,American Express,1,50.0,CLOUD-002,High-Value,Microsoft,50.0
+97,8652-YHIYU,Enterprise Services,Azure Blob Storage,ES0038,01/05/2024,American Express,1,50.0,CLOUD-002,High-Value,Microsoft,50.0
+98,5278-PNYOX,Enterprise Services,Microsoft Teams,ES0039,01/05/2024,American Express,1,12.0,CLOUD-003,Low-Value,Microsoft,12.0
+99,5449-FIBXJ,Enterprise Services,Google BigQuery,ES0040,01/05/2024,American Express,1,60.0,CLOUD-004,High-Value,Google,60.0
+100,3486-HOOGQ,Enterprise Services,Google BigQuery,ES0041,01/05/2024,American Express,1,60.0,CLOUD-004,High-Value,Google,60.0
+101,5061-PBXFW,Enterprise Services,Google BigQuery,ES0042,01/05/2024,American Express,1,60.0,CLOUD-004,High-Value,Google,60.0
+102,8630-FJLIB,Enterprise Services,Google BigQuery,ES0043,01/05/2024,American Express,1,60.0,CLOUD-004,High-Value,Google,60.0
+103,3891-NLXJB,Enterprise Services,Google BigQuery,ES0044,01/06/2024,American Express,4,60.0,CLOUD-004,High-Value,Google,240.0
+104,4749-OJKQU,Enterprise Services,Google BigQuery,ES0045,01/06/2024,American Express,5,60.0,CLOUD-004,High-Value,Google,300.0
+105,0577-WHMEV,Enterprise Services,Google BigQuery,ES0046,01/06/2024,VISA,5,60.0,CLOUD-004,High-Value,Google,300.0
+106,5453-AXEPF,Enterprise Services,Google BigQuery,ES0047,01/06/2024,VISA,5,60.0,CLOUD-004,High-Value,Google,300.0
+107,3639-XJHKQ,Enterprise Services,Google AI/ML,ES0048,01/06/2024,VISA,4,120.0,CLOUD-005,High-Value,Google,480.0
+108,3716-LRGXK,Enterprise Services,Google AI/ML,ES0049,01/06/2024,VISA,4,120.0,CLOUD-005,High-Value,Google,480.0
+109,2263-SFSQZ,Enterprise Services,Google AI/ML,ES0050,01/06/2024,VISA,4,120.0,CLOUD-005,High-Value,Google,480.0
+110,9950-MTGYX,Enterprise Services,Google AI/ML,ES0051,01/06/2024,VISA,4,120.0,CLOUD-005,High-Value,Google,480.0
+111,3397-AVTKU,Enterprise Services,Google AI/ML,ES0052,01/06/2024,VISA,4,120.0,CLOUD-005,High-Value,Google,480.0
+112,4825-FUREZ,Enterprise Services,Google AI/ML,ES0053,01/06/2024,VISA,1,120.0,CLOUD-005,High-Value,Google,120.0
+113,9837-BMCLM,Enterprise Services,Google AI/ML,ES0054,01/06/2024,VISA,1,120.0,CLOUD-005,High-Value,Google,120.0
+114,2672-OJQZP,Enterprise Services,Google AI/ML,ES0055,01/06/2024,VISA,1,120.0,CLOUD-005,High-Value,Google,120.0
+115,0137-UDEUO,Enterprise Services,Google AI/ML,ES0056,01/06/2024,VISA,1,120.0,CLOUD-005,High-Value,Google,120.0
+116,3134-DSHVC,Enterprise Services,Google AI/ML,ES0057,01/06/2024,VISA,1,120.0,CLOUD-005,High-Value,Google,120.0
+117,6161-UUUTA,Enterprise Services,Google AI/ML,ES0058,01/06/2024,AMEX,1,120.0,CLOUD-005,High-Value,Google,120.0
+118,7821-DPRQE,Enterprise Services,Google AI/ML,ES0059,01/06/2024,American Express,1,120.0,CLOUD-005,High-Value,Google,120.0
+119,6543-XRMYR,Enterprise Services,Google AI/ML,ES0060,01/06/2024,Master Card,1,120.0,CLOUD-005,High-Value,Google,120.0
+120,2001-EWBQU,Enterprise Services,AWS EC2 Hosting,ES0061,01/06/2024,American Express,1,75.0,CLOUD-006,High-Value,Amazon,75.0
+121,4925-LMHOK,Enterprise Services,AWS EC2 Hosting,ES0062,01/06/2024,Master Card,1,75.0,CLOUD-006,High-Value,Amazon,75.0
+122,1608-GMEWB,Enterprise Services,AWS EC2 Hosting,ES0063,01/06/2024,AMEX,1,75.0,CLOUD-006,High-Value,Amazon,75.0
+123,6695-AMZUF,Enterprise Services,AWS EC2 Hosting,ES0064,01/06/2024,American Express,1,75.0,CLOUD-006,High-Value,Amazon,75.0
+124,1455-UGQVH,Enterprise Services,AWS EC2 Hosting,ES0065,01/06/2024,Master Card,5,75.0,CLOUD-006,High-Value,Amazon,375.0
+125,8410-BGQXN,Enterprise Services,AWS EC2 Hosting,ES0066,01/06/2024,American Express,5,75.0,CLOUD-006,High-Value,Amazon,375.0
+126,8280-MQRQN,Enterprise Services,AWS EC2 Hosting,ES0067,01/06/2024,Master Card,5,75.0,CLOUD-006,High-Value,Amazon,375.0
+127,1619-YWUBB,Enterprise Services,AWS EC2 Hosting,ES0068,01/06/2024,Master Card,5,75.0,CLOUD-006,High-Value,Amazon,375.0
+128,7611-YKYTC,Enterprise Services,AWS EC2 Hosting,ES0069,01/07/2024,AMEX,5,75.0,CLOUD-006,High-Value,Amazon,375.0
+129,2037-SGXHH,Enterprise Services,AWS EC2 Hosting,ES0070,01/07/2024,American Express,5,75.0,CLOUD-006,High-Value,Amazon,375.0
+130,3178-FESZO,Enterprise Services,AWS EC2 Hosting,ES0071,01/07/2024,Master Card,5,75.0,CLOUD-006,High-Value,Amazon,375.0
+131,0365-GXEZS,Enterprise Services,AWS EC2 Hosting,ES0072,01/07/2024,American Express,5,75.0,CLOUD-006,High-Value,Amazon,375.0
+132,0082-OQIQY,Enterprise Services,Microsoft Azure Virtual Machines,ES0073,01/07/2024,Master Card,10,99.0,CLOUD-001,High-Value,Microsoft,990.0
+133,6087-MVHJH,Enterprise Services,Microsoft Azure Virtual Machines,ES0074,01/07/2024,AMEX,10,99.0,CLOUD-001,High-Value,Microsoft,990.0
+134,4603-JANFB,Enterprise Services,Microsoft Azure Virtual Machines,ES0075,01/07/2024,AMEX,10,99.0,CLOUD-001,High-Value,Microsoft,990.0
+135,3018-TFTSU,Enterprise Services,Microsoft Azure Virtual Machines,ES0076,01/07/2024,AMEX,10,99.0,CLOUD-001,High-Value,Microsoft,990.0
+136,3606-SBKRY,Enterprise Services,Microsoft Azure Virtual Machines,ES0077,01/07/2024,AMEX,10,99.0,CLOUD-001,High-Value,Microsoft,990.0
+137,4806-KEXQR,Enterprise Services,Microsoft Azure Virtual Machines,ES0078,01/07/2024,AMEX,10,99.0,CLOUD-001,High-Value,Microsoft,990.0
+138,0667-NSRGI,Enterprise Services,Microsoft Azure Virtual Machines,ES0079,01/07/2024,AMEX,10,99.0,CLOUD-001,High-Value,Microsoft,990.0
+139,7083-YNSKY,Enterprise Services,Microsoft Azure Virtual Machines,ES0080,01/07/2024,AMEX,10,99.0,CLOUD-001,High-Value,Microsoft,990.0
+140,6893-ODYYE,Enterprise Services,GCP Compute Engine,ES0081,01/07/2024,Master Card,10,80.0,CLOUD-007,High-Value,Google,800.0
+141,8242-JSVBO,Enterprise Services,GCP Compute Engine,ES0082,01/07/2024,Master Card,10,80.0,CLOUD-007,High-Value,Google,800.0
+142,2479-BRAMR,Enterprise Services,GCP Compute Engine,ES0083,01/07/2024,Master Card,10,80.0,CLOUD-007,High-Value,Google,800.0
+143,9541-ZPSEA,Enterprise Services,GCP Compute Engine,ES0084,01/07/2024,Master Card,10,80.0,CLOUD-007,High-Value,Google,800.0
+144,2665-NPTGL,Enterprise Services,GCP Compute Engine,ES0085,01/07/2024,Master Card,10,80.0,CLOUD-007,High-Value,Google,800.0
+145,1139-WUOAH,Enterprise Services,Microsoft Teams,ES0086,01/07/2024,Master Card,10,12.0,CLOUD-003,Low-Value,Microsoft,120.0
+146,4693-VWVBO,Enterprise Services,Microsoft Teams,ES0087,01/07/2024,Master Card,10,12.0,CLOUD-003,Low-Value,Microsoft,120.0
+147,7434-SHXLS,Enterprise Services,Microsoft Teams,ES0088,01/07/2024,Master Card,10,12.0,CLOUD-003,Low-Value,Microsoft,120.0
+148,6937-GCDGQ,Enterprise Services,Microsoft Teams,ES0089,01/07/2024,Master Card,10,12.0,CLOUD-003,Low-Value,Microsoft,120.0
+149,0988-JRWWP,Enterprise Services,Microsoft Teams,ES0090,01/08/2024,Master Card,5,12.0,CLOUD-003,Low-Value,Microsoft,60.0
+150,8849-AYPTR,Enterprise Services,Microsoft Azure Virtual Machines,ES0091,01/08/2024,AMEX,1,99.0,CLOUD-001,High-Value,Microsoft,99.0
+151,8849-AYPTR,Enterprise Services,Azure Blob Storage,ES0091,01/08/2024,AMEX,1,50.0,CLOUD-002,High-Value,Microsoft,50.0
+152,9518-IMLHK,Enterprise Services,Microsoft Azure Virtual Machines,ES0092,01/08/2024,AMEX,1,99.0,CLOUD-001,High-Value,Microsoft,99.0
+153,9518-IMLHK,Enterprise Services,Azure Blob Storage,ES0092,01/08/2024,AMEX,1,50.0,CLOUD-002,High-Value,Microsoft,50.0
+154,1582-RAFML,Enterprise Services,Microsoft Azure Virtual Machines,ES0093,01/08/2024,Master Card,1,99.0,CLOUD-001,High-Value,Microsoft,99.0
+155,1582-RAFML,Enterprise Services,Azure Blob Storage,ES0093,01/08/2024,Master Card,5,50.0,CLOUD-002,High-Value,Microsoft,250.0
+156,3646-ITDGM,Enterprise Services,Microsoft Azure Virtual Machines,ES0094,01/08/2024,Master Card,5,99.0,CLOUD-001,High-Value,Microsoft,495.0
+157,3646-ITDGM,Enterprise Services,Azure Blob Storage,ES0094,01/08/2024,Master Card,1,50.0,CLOUD-002,High-Value,Microsoft,50.0
+158,8740-CRYFY,Enterprise Services,Microsoft Azure Virtual Machines,ES0095,01/08/2024,Master Card,1,99.0,CLOUD-001,High-Value,Microsoft,99.0
+159,8740-CRYFY,Enterprise Services,Azure Blob Storage,ES0095,01/08/2024,Master Card,1,50.0,CLOUD-002,High-Value,Microsoft,50.0
+160,3569-VLDHH,Enterprise Services,Microsoft Azure Virtual Machines,ES0096,01/08/2024,AMEX,1,99.0,CLOUD-001,High-Value,Microsoft,99.0
+161,3569-VLDHH,Enterprise Services,Azure Blob Storage,ES0096,01/08/2024,AMEX,2,50.0,CLOUD-002,High-Value,Microsoft,100.0
+162,8224-KDLKN,Enterprise Services,Microsoft Azure Virtual Machines,ES0097,01/08/2024,AMEX,7,99.0,CLOUD-001,High-Value,Microsoft,693.0
+163,8224-KDLKN,Enterprise Services,Azure Blob Storage,ES0097,01/08/2024,AMEX,3,50.0,CLOUD-002,High-Value,Microsoft,150.0
+164,7594-LZNWR,Enterprise Services,Microsoft Azure Virtual Machines,ES0098,01/08/2024,AMEX,2,99.0,CLOUD-001,High-Value,Microsoft,198.0
+165,7594-LZNWR,Enterprise Services,Azure Blob Storage,ES0098,01/08/2024,AMEX,2,50.0,CLOUD-002,High-Value,Microsoft,100.0
+166,4001-TSBTV,Enterprise Services,Microsoft Azure Virtual Machines,ES0099,01/08/2024,AMEX,2,99.0,CLOUD-001,High-Value,Microsoft,198.0
+167,4001-TSBTV,Enterprise Services,Azure Blob Storage,ES0099,01/08/2024,AMEX,4,50.0,CLOUD-002,High-Value,Microsoft,200.0
+168,8727-XDPUD,Enterprise Services,Microsoft Azure Virtual Machines,ES0100,01/08/2024,AMEX,4,99.0,CLOUD-001,High-Value,Microsoft,396.0
+169,8727-XDPUD,Enterprise Services,Azure Blob Storage,ES0100,01/08/2024,AMEX,4,50.0,CLOUD-002,High-Value,Microsoft,200.0
+170,1043-UXOVO,Enterprise Services,Microsoft Azure Virtual Machines,ES0101,01/08/2024,AMEX,2,99.0,CLOUD-001,High-Value,Microsoft,198.0
+171,1043-UXOVO,Enterprise Services,Azure Blob Storage,ES0101,01/08/2024,AMEX,2,50.0,CLOUD-002,High-Value,Microsoft,100.0
+172,1064-FBXNK,Enterprise Services,Microsoft Azure Virtual Machines,ES0102,01/08/2024,Master Card,2,99.0,CLOUD-001,High-Value,Microsoft,198.0
+173,1064-FBXNK,Enterprise Services,Azure Blob Storage,ES0102,01/08/2024,Master Card,2,50.0,CLOUD-002,High-Value,Microsoft,100.0
+174,3996-ZNWYK,Enterprise Services,Microsoft Azure Virtual Machines,ES0103,01/08/2024,Master Card,2,99.0,CLOUD-001,High-Value,Microsoft,198.0
+175,3996-ZNWYK,Enterprise Services,Azure Blob Storage,ES0103,01/08/2024,Master Card,2,50.0,CLOUD-002,High-Value,Microsoft,100.0
+176,2878-DHMIN,Enterprise Services,Microsoft Azure Virtual Machines,ES0104,01/08/2024,Master Card,2,99.0,CLOUD-001,High-Value,Microsoft,198.0
+177,2878-DHMIN,Enterprise Services,Azure Blob Storage,ES0104,01/08/2024,Master Card,2,50.0,CLOUD-002,High-Value,Microsoft,100.0
+178,7762-ONLJY,Enterprise Services,Microsoft Azure Virtual Machines,ES0105,01/08/2024,Master Card,2,99.0,CLOUD-001,High-Value,Microsoft,198.0
+179,7762-ONLJY,Enterprise Services,Azure Blob Storage,ES0105,01/08/2024,Master Card,2,50.0,CLOUD-002,High-Value,Microsoft,100.0
+180,1678-FYZOW,Enterprise Services,Microsoft Azure Virtual Machines,ES0106,01/08/2024,Master Card,1,99.0,CLOUD-001,High-Value,Microsoft,99.0
+181,1678-FYZOW,Enterprise Services,Azure Blob Storage,ES0106,01/08/2024,Master Card,1,50.0,CLOUD-002,High-Value,Microsoft,50.0
+182,8854-CCVSQ,Enterprise Services,Microsoft Azure Virtual Machines,ES0107,01/08/2024,VISA,1,99.0,CLOUD-001,High-Value,Microsoft,99.0
+183,8854-CCVSQ,Enterprise Services,Azure Blob Storage,ES0107,01/08/2024,VISA,1,50.0,CLOUD-002,High-Value,Microsoft,50.0
+184,6749-UTDVX,Enterprise Services,Microsoft Azure Virtual Machines,ES0108,01/08/2024,VISA,1,99.0,CLOUD-001,High-Value,Microsoft,99.0
+185,6749-UTDVX,Enterprise Services,Azure Blob Storage,ES0108,01/08/2024,VISA,1,50.0,CLOUD-002,High-Value,Microsoft,50.0
+186,5542-DHSXL,Enterprise Services,Microsoft Azure Virtual Machines,ES0109,01/08/2024,VISA,1,99.0,CLOUD-001,High-Value,Microsoft,99.0
+187,5542-DHSXL,Enterprise Services,Azure Blob Storage,ES0109,01/08/2024,VISA,1,50.0,CLOUD-002,High-Value,Microsoft,50.0
+188,9102-OXKFY,Enterprise Services,Microsoft Azure Virtual Machines,ES0110,01/08/2024,VISA,1,99.0,CLOUD-001,High-Value,Microsoft,99.0
+189,9102-OXKFY,Enterprise Services,Azure Blob Storage,ES0110,01/08/2024,VISA,1,50.0,CLOUD-002,High-Value,Microsoft,50.0
+190,0511-JTEOY,Enterprise Services,Microsoft Azure Virtual Machines,ES0111,01/09/2024,VISA,1,99.0,CLOUD-001,High-Value,Microsoft,99.0
+191,0511-JTEOY,Enterprise Services,Azure Blob Storage,ES0111,01/09/2024,VISA,1,50.0,CLOUD-002,High-Value,Microsoft,50.0
+192,5216-WASFJ,Enterprise Services,Microsoft Azure Virtual Machines,ES0112,01/09/2024,VISA,1,99.0,CLOUD-001,High-Value,Microsoft,99.0
+193,5216-WASFJ,Enterprise Services,Azure Blob Storage,ES0112,01/09/2024,VISA,10,50.0,CLOUD-002,High-Value,Microsoft,500.0
+194,7808-DVWEP,Enterprise Services,Microsoft Azure Virtual Machines,ES0113,01/09/2024,VISA,10,99.0,CLOUD-001,High-Value,Microsoft,990.0
+195,7808-DVWEP,Enterprise Services,Azure Blob Storage,ES0113,01/09/2024,VISA,10,50.0,CLOUD-002,High-Value,Microsoft,500.0
+196,7067-KSAZT,Enterprise Services,Microsoft Azure Virtual Machines,ES0114,01/09/2024,AMEX,10,99.0,CLOUD-001,High-Value,Microsoft,990.0
+197,7067-KSAZT,Enterprise Services,Azure Blob Storage,ES0114,01/09/2024,AMEX,10,50.0,CLOUD-002,High-Value,Microsoft,500.0
+198,2284-VFLKH,Enterprise Services,Microsoft Azure Virtual Machines,ES0115,01/09/2024,AMEX,10,99.0,CLOUD-001,High-Value,Microsoft,990.0
+199,2284-VFLKH,Enterprise Services,Azure Blob Storage,ES0115,01/09/2024,AMEX,10,50.0,CLOUD-002,High-Value,Microsoft,500.0
+200,0366-NQSHS,Enterprise Services,Microsoft Azure Virtual Machines,ES0116,01/09/2024,AMEX,10,99.0,CLOUD-001,High-Value,Microsoft,990.0
+201,0366-NQSHS,Enterprise Services,Azure Blob Storage,ES0116,01/09/2024,AMEX,10,50.0,CLOUD-002,High-Value,Microsoft,500.0
+202,6532-YLWSI,Enterprise Services,Microsoft Azure Virtual Machines,ES0117,01/09/2024,AMEX,5,99.0,CLOUD-001,High-Value,Microsoft,495.0
+203,6532-YLWSI,Enterprise Services,Azure Blob Storage,ES0117,01/09/2024,AMEX,10,50.0,CLOUD-002,High-Value,Microsoft,500.0
+204,3807-BPOMJ,Enterprise Services,Microsoft Azure Virtual Machines,ES0118,01/09/2024,AMEX,10,99.0,CLOUD-001,High-Value,Microsoft,990.0
+205,3807-BPOMJ,Enterprise Services,Azure Blob Storage,ES0118,01/09/2024,AMEX,10,50.0,CLOUD-002,High-Value,Microsoft,500.0
+206,3892-NXAZG,Enterprise Services,Microsoft Azure Virtual Machines,ES0119,01/09/2024,AMEX,15,99.0,CLOUD-001,High-Value,Microsoft,1485.0
+207,3892-NXAZG,Enterprise Services,Azure Blob Storage,ES0119,01/09/2024,AMEX,15,50.0,CLOUD-002,High-Value,Microsoft,750.0
+208,4948-WBBKL,Enterprise Services,Microsoft Azure Virtual Machines,ES0120,01/09/2024,AMEX,15,99.0,CLOUD-001,High-Value,Microsoft,1485.0
+209,4948-WBBKL,Enterprise Services,Azure Blob Storage,ES0120,01/09/2024,AMEX,15,50.0,CLOUD-002,High-Value,Microsoft,750.0
+210,4182-BGSIQ,Enterprise Services,Microsoft Azure Virtual Machines,ES0121,01/09/2024,VISA,15,99.0,CLOUD-001,High-Value,Microsoft,1485.0
+211,4182-BGSIQ,Enterprise Services,Azure Blob Storage,ES0121,01/09/2024,VISA,15,50.0,CLOUD-002,High-Value,Microsoft,750.0
+212,7321-ZNSLA,Streaming Services,Netflix,SS0001,01/10/2024,VISA,15,15.99,STREAM-001,High-Value,Netflix,239.85
+213,7321-ZNSLA,Streaming Services,Spotify,SS0001,01/10/2024,VISA,5,9.99,STREAM-002,High-Value,Spotify,49.95
+214,6941-KXRRV,Streaming Services,Netflix,SS0002,01/10/2024,Master Card,5,15.99,STREAM-001,High-Value,Netflix,79.95
+215,6941-KXRRV,Streaming Services,Spotify,SS0002,01/10/2024,Master Card,5,9.99,STREAM-002,High-Value,Spotify,49.95
+216,3721-CNEYS,Streaming Services,Netflix,SS0003,01/10/2024,Master Card,5,15.99,STREAM-001,High-Value,Netflix,79.95
+217,3721-CNEYS,Streaming Services,Spotify,SS0003,01/10/2024,Master Card,1,9.99,STREAM-002,High-Value,Spotify,9.99
+218,8727-JQFHV,Streaming Services,Netflix,SS0004,01/10/2024,Master Card,1,15.99,STREAM-001,High-Value,Netflix,15.99
+219,8727-JQFHV,Streaming Services,Spotify,SS0004,01/10/2024,Master Card,1,9.99,STREAM-002,High-Value,Spotify,9.99
+220,9475-NNDGC,Streaming Services,Netflix,SS0005,01/10/2024,Master Card,1,15.99,STREAM-001,High-Value,Netflix,15.99
+221,9475-NNDGC,Streaming Services,Spotify,SS0005,01/10/2024,Master Card,1,9.99,STREAM-002,High-Value,Spotify,9.99
+222,1355-KUSBG,Streaming Services,Netflix,SS0006,01/10/2024,Master Card,1,15.99,STREAM-001,High-Value,Netflix,15.99
+223,1355-KUSBG,Streaming Services,Spotify,SS0006,01/10/2024,Master Card,1,9.99,STREAM-002,High-Value,Spotify,9.99
+224,3688-FTHLT,Streaming Services,Netflix,SS0007,01/10/2024,Master Card,5,15.99,STREAM-001,High-Value,Netflix,79.95
+225,3688-FTHLT,Streaming Services,Spotify,SS0007,01/10/2024,Master Card,1,9.99,STREAM-002,High-Value,Spotify,9.99
+226,0899-LIIBW,Streaming Services,Netflix,SS0008,01/10/2024,AMEX,5,15.99,STREAM-001,High-Value,Netflix,79.95
+227,0899-LIIBW,Streaming Services,Spotify,SS0008,01/10/2024,AMEX,2,9.99,STREAM-002,High-Value,Spotify,19.98
+228,2568-OIADY,Streaming Services,Netflix,SS0009,01/10/2024,AMEX,2,15.99,STREAM-001,High-Value,Netflix,31.98
+229,2568-OIADY,Streaming Services,Spotify,SS0009,01/10/2024,AMEX,2,9.99,STREAM-002,High-Value,Spotify,19.98
+230,1384-RCUXW,Streaming Services,Netflix,SS0010,01/10/2024,AMEX,2,15.99,STREAM-001,High-Value,Netflix,31.98
+231,1384-RCUXW,Streaming Services,Spotify,SS0010,01/10/2024,AMEX,2,9.99,STREAM-002,High-Value,Spotify,19.98
+232,5825-XJOCM,Streaming Services,Netflix,SS0011,01/10/2024,AMEX,2,15.99,STREAM-001,High-Value,Netflix,31.98
+233,5825-XJOCM,Streaming Services,Spotify,SS0011,01/10/2024,AMEX,2,9.99,STREAM-002,High-Value,Spotify,19.98
+234,6848-YLDFR,Streaming Services,Netflix,SS0012,01/10/2024,AMEX,2,15.99,STREAM-001,High-Value,Netflix,31.98
+235,6848-YLDFR,Streaming Services,Spotify,SS0012,01/10/2024,AMEX,2,9.99,STREAM-002,High-Value,Spotify,19.98
+236,8125-QPFJD,Streaming Services,Netflix,SS0013,01/10/2024,VISA,5,15.99,STREAM-001,High-Value,Netflix,79.95
+237,8125-QPFJD,Streaming Services,Spotify,SS0013,01/10/2024,VISA,5,9.99,STREAM-002,High-Value,Spotify,49.95
+238,2320-YKQBO,Streaming Services,Netflix,SS0014,01/10/2024,VISA,5,15.99,STREAM-001,High-Value,Netflix,79.95
+239,2320-YKQBO,Streaming Services,Spotify,SS0014,01/10/2024,VISA,5,9.99,STREAM-002,High-Value,Spotify,49.95
+240,1193-RTSLK,Streaming Services,Netflix,SS0015,01/10/2024,VISA,5,15.99,STREAM-001,High-Value,Netflix,79.95
+241,1193-RTSLK,Streaming Services,Spotify,SS0015,01/10/2024,VISA,5,9.99,STREAM-002,High-Value,Spotify,49.95
+242,2302-ANTDP,Streaming Services,Netflix,SS0016,01/10/2024,VISA,5,15.99,STREAM-001,High-Value,Netflix,79.95
+243,2302-ANTDP,Streaming Services,Spotify,SS0016,01/10/2024,VISA,5,9.99,STREAM-002,High-Value,Spotify,49.95
+244,5923-GXUOC,Streaming Services,Netflix,SS0017,01/10/2024,VISA,5,15.99,STREAM-001,High-Value,Netflix,79.95
+245,5923-GXUOC,Streaming Services,Spotify,SS0017,01/10/2024,VISA,5,9.99,STREAM-002,High-Value,Spotify,49.95
+246,4973-RLZVI,Streaming Services,Netflix,SS0018,01/10/2024,VISA,5,15.99,STREAM-001,High-Value,Netflix,79.95
+247,4973-RLZVI,Streaming Services,Spotify,SS0018,01/10/2024,VISA,5,9.99,STREAM-002,High-Value,Spotify,49.95
+248,7869-ZYDST,Streaming Services,Netflix,SS0019,01/10/2024,AMEX,2,15.99,STREAM-001,High-Value,Netflix,31.98
+249,7869-ZYDST,Streaming Services,Spotify,SS0019,01/10/2024,AMEX,2,9.99,STREAM-002,High-Value,Spotify,19.98
+250,4501-UYKBC,Streaming Services,Netflix,SS0020,01/10/2024,AMEX,2,15.99,STREAM-001,High-Value,Netflix,31.98
+251,4501-UYKBC,Streaming Services,Spotify,SS0020,01/10/2024,AMEX,2,9.99,STREAM-002,High-Value,Spotify,19.98
+252,1215-EXRMO,Streaming Services,Netflix,SS0021,01/10/2024,AMEX,10,15.99,STREAM-001,High-Value,Netflix,159.9
+253,1215-EXRMO,Streaming Services,Spotify,SS0021,01/10/2024,AMEX,10,9.99,STREAM-002,High-Value,Spotify,99.9
+254,2305-MRGLV,Streaming Services,Netflix,SS0022,01/10/2024,Master Card,10,15.99,STREAM-001,High-Value,Netflix,159.9
+255,2305-MRGLV,Streaming Services,Spotify,SS0022,01/10/2024,Master Card,10,9.99,STREAM-002,High-Value,Spotify,99.9
+256,8404-GFGCZ,Streaming Services,Disney+,SS0023,01/10/2024,Master Card,1,7.99,STREAM-003,High-Value,Disney,7.99
+257,8875-AKBYH,Streaming Services,Apple TV+,SS0024,01/11/2024,Master Card,1,9.99,STREAM-004,High-Value,Apple,9.99
+258,4432-ADRLB,Streaming Services,YouTube Premium,SS0025,01/11/2024,Master Card,1,11.99,STREAM-005,Medium-Value,Google,11.99
+259,0533-UCAAU,Streaming Services,Peacock,SS0026,01/11/2024,Master Card,1,4.99,STREAM-006,Medium-Value,NBCUniversal,4.99
+260,1394-SUIUH,Streaming Services,HBO Max,SS0027,01/11/2024,Master Card,1,14.99,STREAM-007,High-Value,Warner Bros.,14.99
+261,3521-MNKLV,Streaming Services,Sling TV,SS0028,01/11/2024,AMEX,1,29.99,STREAM-008,High-Value,Sling TV,29.99
+262,2533-TIBIX,Streaming Services,Paramount+,SS0029,01/11/2024,AMEX,10,5.99,STREAM-009,High-Value,Paramount,59.9
+263,8993-PHFWD,Streaming Services,Tubi,SS0030,01/11/2024,AMEX,10,9.99,STREAM-010,Low-Value,Tubi,99.9
+264,1565-RHDJD,Streaming Services,Discovery+,SS0031,01/11/2024,AMEX,10,6.99,STREAM-011,Low-Value,Discovery,69.9
+265,7137-RYLPP,Streaming Services,Disney+,SS0032,01/11/2024,AMEX,10,7.99,STREAM-003,High-Value,Disney,79.9
+266,3765-JXVKY,Streaming Services,Apple TV+,SS0033,01/11/2024,American Express,5,9.99,STREAM-004,High-Value,Apple,49.95
+267,5092-STPKP,Streaming Services,YouTube Premium,SS0034,01/11/2024,VISA,5,11.99,STREAM-005,Medium-Value,Google,59.95
+268,7330-WZLNC,Streaming Services,Peacock,SS0035,01/11/2024,VISA,5,4.99,STREAM-006,Medium-Value,NBCUniversal,24.95
+269,0114-PEGZZ,Streaming Services,BBC iPlayer,SS0036,01/11/2024,VISA,5,5.99,STREAM-012,Low-Value,BBC,29.95
+270,3359-DSRKA,Streaming Services,Google Play Movies & TV,SS0037,01/11/2024,VISA,5,4.99,STREAM-013,Low-Value,Google,24.95
+271,8639-NHQEI,Streaming Services,Crave,SS0038,01/11/2024,VISA,5,9.99,STREAM-014,Medium-Value,Crave,49.95
+272,7161-DFHUF,Streaming Services,Showtime,SS0039,01/11/2024,VISA,5,10.99,STREAM-015,Medium-Value,Showtime,54.95
+273,3957-LXOLK,Streaming Services,Vudu,SS0040,01/11/2024,American Express,5,3.99,STREAM-016,Medium-Value,Walmart,19.95
+274,3720-DBRWL,Streaming Services,Roku Channel,SS0041,01/11/2024,American Express,5,6.99,STREAM-017,Medium-Value,Roku,34.95
+275,6635-MYYYZ,Streaming Services,Paramount+,SS0042,01/11/2024,AMEX,5,5.99,STREAM-009,High-Value,Paramount,29.95
+276,8565-WUXZU,Streaming Services,Tubi,SS0043,01/11/2024,AMEX,2,9.99,STREAM-010,Low-Value,Tubi,19.98
+277,5281-BUZGT,Streaming Services,Discovery+,SS0044,01/11/2024,AMEX,2,6.99,STREAM-011,Low-Value,Discovery,13.98
+278,4994-OBRSZ,Streaming Services,BBC iPlayer,SS0045,01/11/2024,AMEX,2,5.99,STREAM-012,Low-Value,BBC,11.98
+279,0562-FGDCR,Streaming Services,Google Play Movies & TV,SS0046,01/11/2024,American Express,2,4.99,STREAM-013,Low-Value,Google,9.98
+280,2436-QBZFP,Streaming Services,Crave,SS0047,01/12/2024,American Express,2,9.99,STREAM-014,Medium-Value,Crave,19.98
+281,3420-YJLQT,Streaming Services,Showtime,SS0048,01/12/2024,American Express,1,10.99,STREAM-015,Medium-Value,Showtime,10.99
+282,6040-CGACY,Streaming Services,BBC iPlayer,SS0049,01/12/2024,American Express,1,5.99,STREAM-012,Low-Value,BBC,5.99
+283,6582-PLFUU,Streaming Services,Google Play Movies & TV,SS0050,01/12/2024,AMEX,1,4.99,STREAM-013,Low-Value,Google,4.99
+284,8242-PDSGJ,Streaming Services,Crave,SS0051,01/12/2024,AMEX,1,9.99,STREAM-014,Medium-Value,Crave,9.99
+285,0264-CNITK,Streaming Services,Showtime,SS0052,01/12/2024,AMEX,1,10.99,STREAM-015,Medium-Value,Showtime,10.99
+286,0089-IIQKO,Streaming Services,Vudu,SS0053,01/12/2024,American Express,1,3.99,STREAM-016,Medium-Value,Walmart,3.99
+287,7839-NUIAA,Streaming Services,Roku Channel,SS0054,01/12/2024,American Express,1,6.99,STREAM-017,Medium-Value,Roku,6.99
+288,6075-QMNRR,Streaming Services,Vudu,SS0055,01/12/2024,American Express,1,3.99,STREAM-016,Medium-Value,Walmart,3.99
+289,5378-IKEEG,Streaming Services,Roku Channel,SS0056,01/12/2024,AMEX,1,6.99,STREAM-017,Medium-Value,Roku,6.99
+290,5966-EMAZU,Streaming Services,BBC iPlayer,SS0057,01/12/2024,AMEX,1,5.99,STREAM-012,Low-Value,BBC,5.99
+291,0440-EKDCF,Streaming Services,Google Play Movies & TV,SS0058,01/12/2024,AMEX,5,4.99,STREAM-013,Low-Value,Google,24.95
+292,4774-HHGGS,Streaming Services,Crave,SS0059,01/12/2024,American Express,5,9.99,STREAM-014,Medium-Value,Crave,49.95
+293,2718-GAXQD,Streaming Services,Showtime,SS0060,01/12/2024,American Express,5,10.99,STREAM-015,Medium-Value,Showtime,54.95
+294,2055-BFOCC,Streaming Services,Vudu,SS0061,01/12/2024,American Express,5,3.99,STREAM-016,Medium-Value,Walmart,19.95
+295,8180-AKMJV,Streaming Services,Roku Channel,SS0062,01/12/2024,VISA,5,6.99,STREAM-017,Medium-Value,Roku,34.95
+296,4298-OYIFC,Streaming Services,Spotify,SS0063,01/12/2024,VISA,1,9.99,STREAM-002,High-Value,Spotify,9.99
+297,5566-SOEZD,Streaming Services,Spotify,SS0064,01/12/2024,VISA,1,9.99,STREAM-002,High-Value,Spotify,9.99
+298,9842-EFSYY,Streaming Services,Spotify,SS0065,01/12/2024,VISA,1,9.99,STREAM-002,High-Value,Spotify,9.99
+299,2272-WUSPA,Streaming Services,Spotify,SS0066,01/12/2024,VISA,1,9.99,STREAM-002,High-Value,Spotify,9.99
+300,4584-LBNMK,Streaming Services,Spotify,SS0067,01/12/2024,VISA,1,9.99,STREAM-002,High-Value,Spotify,9.99
+301,3898-GUYTS,Streaming Services,Spotify,SS0068,01/12/2024,VISA,1,9.99,STREAM-002,High-Value,Spotify,9.99
+302,0930-EHUZA,Streaming Services,Spotify,SS0069,01/12/2024,VISA,1,9.99,STREAM-002,High-Value,Spotify,9.99
+303,6413-XKKPU,Streaming Services,Spotify,SS0070,01/12/2024,VISA,1,9.99,STREAM-002,High-Value,Spotify,9.99
+304,9975-SKRNR,Streaming Services,Spotify,SS0071,01/12/2024,VISA,1,9.99,STREAM-002,High-Value,Spotify,9.99
+305,3703-KBKZP,Streaming Services,Spotify,SS0072,01/12/2024,VISA,10,9.99,STREAM-002,High-Value,Spotify,99.9
+306,1449-XQEMT,Streaming Services,Spotify,SS0073,01/12/2024,VISA,1,9.99,STREAM-002,High-Value,Spotify,9.99
+307,2626-URJFX,Streaming Services,Spotify,SS0074,01/12/2024,AMEX,1,9.99,STREAM-002,High-Value,Spotify,9.99
+308,4973-MGTON,Streaming Services,Spotify,SS0075,01/12/2024,American Express,1,9.99,STREAM-002,High-Value,Spotify,9.99
+309,3682-YEUWS,Streaming Services,Spotify,SS0076,01/12/2024,American Express,1,9.99,STREAM-002,High-Value,Spotify,9.99
+310,1223-UNPKS,Streaming Services,Netflix,SS0077,01/12/2024,American Express,1,15.99,STREAM-001,High-Value,Netflix,15.99
+311,2612-RRIDN,Streaming Services,Netflix,SS0078,01/12/2024,AMEX,1,15.99,STREAM-001,High-Value,Netflix,15.99
+312,4735-ASGMA,Streaming Services,Netflix,SS0079,01/12/2024,AMEX,1,15.99,STREAM-001,High-Value,Netflix,15.99
+313,3446-QDSZF,Streaming Services,Netflix,SS0080,01/12/2024,AMEX,1,15.99,STREAM-001,High-Value,Netflix,15.99
+314,3669-LVWZB,Streaming Services,Netflix,SS0081,01/12/2024,American Express,1,15.99,STREAM-001,High-Value,Netflix,15.99
+315,6892-EZDTG,Streaming Services,Netflix,SS0082,01/12/2024,American Express,1,15.99,STREAM-001,High-Value,Netflix,15.99
+316,5117-IFGPS,Streaming Services,Netflix,SS0083,01/12/2024,American Express,1,15.99,STREAM-001,High-Value,Netflix,15.99
+317,7379-FNIUJ,Streaming Services,Netflix,SS0084,01/12/2024,American Express,1,15.99,STREAM-001,High-Value,Netflix,15.99
+318,1627-AFWVJ,Streaming Services,Netflix,SS0085,01/12/2024,American Express,1,15.99,STREAM-001,High-Value,Netflix,15.99

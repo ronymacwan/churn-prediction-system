@@ -1,0 +1,32 @@
+ProductID,PriceSegment,Brand
+MOBILE-001,Low-Value,Verizon
+MOBILE-002,Low-Value,Verizon
+MOBILE-003,Low-Value,Verizon
+MOBILE-004,Low-Value,Verizon
+MOBILE-005,Low-Value,Verizon
+MOBILE-006,Medium-Value,Verizon
+MOBILE-007,Medium-Value,Verizon
+CLOUD-001,High-Value,Microsoft
+CLOUD-002,High-Value,Microsoft
+CLOUD-003,Low-Value,Microsoft
+CLOUD-004,High-Value,Google
+CLOUD-005,High-Value,Google
+CLOUD-006,High-Value,Amazon
+CLOUD-007,High-Value,Google
+STREAM-001,High-Value,Netflix
+STREAM-002,High-Value,Spotify
+STREAM-003,High-Value,Disney
+STREAM-004,High-Value,Apple
+STREAM-005,Medium-Value,Google
+STREAM-006,Medium-Value,NBCUniversal
+STREAM-007,High-Value,Warner Bros.
+STREAM-008,High-Value,Sling TV
+STREAM-009,High-Value,Paramount
+STREAM-010,Low-Value,Tubi
+STREAM-011,Low-Value,Discovery
+STREAM-012,Low-Value,BBC
+STREAM-013,Low-Value,Google
+STREAM-014,Medium-Value,Crave
+STREAM-015,Medium-Value,Showtime
+STREAM-016,Medium-Value,Walmart
+STREAM-017,Medium-Value,Roku
