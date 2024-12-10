@@ -1,0 +1,46 @@
+// Dimension Table: Dim_ServiceType
+Table Dim_ServiceType {
+  serviceType TEXT [pk]
+}
+
+// Dimension Table: Dim_ServiceSubType
+Table Dim_ServiceSubType {
+  serviceSubType TEXT [pk]
+}
+
+// Dimension Table: Dim_PaymentMethod
+Table Dim_PaymentMethod {
+  PaymentMethod TEXT [pk]
+}
+
+// Dimension Table: Dim_Product
+Table Dim_Product {
+  ProductID TEXT [pk]
+  PriceSegment TEXT
+  Brand TEXT
+}
+
+// Fact Table: Fact_Transactions
+Table Fact_Transactions {
+  transactionID INTEGER [pk]
+  customerId TEXT
+  serviceType TEXT
+  serviceSubType TEXT
+  invoiceID TEXT
+  Date TEXT
+  PaymentMethod TEXT
+  Quantity INTEGER
+  PerUnitPrice REAL
+  ProductID TEXT
+  PriceSegment TEXT
+  Brand TEXT
+  FinalPrice REAL
+}
+
+// Foreign Key Relationships
+Ref: Fact_Transactions.serviceType > Dim_ServiceType.serviceType
+Ref: Fact_Transactions.serviceSubType > Dim_ServiceSubType.serviceSubType
+Ref: Fact_Transactions.PaymentMethod > Dim_PaymentMethod.PaymentMethod
+Ref: Fact_Transactions.ProductID > Dim_Product.ProductID
+Ref: Fact_Transactions.PriceSegment > Dim_Product.PriceSegment
+Ref: Fact_Transactions.Brand > Dim_Product.Brand
